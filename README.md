@@ -50,5 +50,5 @@ python manage.py runserver
 ## Authors
 
 If you have any questions or suggestions, feel free to reach out to me at-
-anmolshubhamsteam69@gmail.com.
+sachin1947s@gmail.com.
 
